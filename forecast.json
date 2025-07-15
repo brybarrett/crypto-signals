@@ -2,288 +2,298 @@
   "BTCUSDT": {
     "long": [
       {
-        "zone": [
+        "entry": [
           117000,
           117300
         ],
-        "tp": 121000,
-        "sl": 115000,
+        "tp": 119646.0,
+        "sl": 114660.0,
         "leverage": 10,
-        "volume_1m": 319948
+        "volume_1m": 350000
+      },
+      {
+        "entry": [
+          114500,
+          115000
+        ],
+        "tp": 117300.0,
+        "sl": 112210.0,
+        "leverage": 10,
+        "volume_1m": 350000
       }
     ],
     "short": [
       {
-        "zone": [
+        "entry": [
           119200,
           119500
         ],
-        "tp": 116500,
-        "sl": 120500,
+        "tp": 121890.0,
+        "sl": 116816.0,
         "leverage": 10,
-        "volume_1m": 118423
+        "volume_1m": 350000
       }
     ]
   },
   "ETHUSDT": {
     "long": [
       {
-        "zone": [
+        "entry": [
           2900,
           2920
         ],
-        "tp": 3000,
-        "sl": 2850,
-        "leverage": 8,
-        "volume_1m": 457170
+        "tp": 2978.4,
+        "sl": 2842.0,
+        "leverage": 10,
+        "volume_1m": 280000
       }
     ],
     "short": [
       {
-        "zone": [
+        "entry": [
           2980,
           3000
         ],
-        "tp": 2900,
-        "sl": 3050,
-        "leverage": 8,
-        "volume_1m": 379102
+        "tp": 3060.0,
+        "sl": 2920.4,
+        "leverage": 10,
+        "volume_1m": 280000
       }
     ]
   },
   "MOODENGUSDT": {
     "long": [
       {
-        "zone": [
+        "entry": [
           0.18,
           0.183
         ],
-        "tp": 0.195,
-        "sl": 0.175,
-        "leverage": 12,
-        "volume_1m": 306671
+        "tp": 0.187,
+        "sl": 0.176,
+        "leverage": 10,
+        "volume_1m": 150000
       }
     ],
     "short": [
       {
-        "zone": [
+        "entry": [
           0.193,
           0.196
         ],
-        "tp": 0.182,
-        "sl": 0.2,
-        "leverage": 12,
-        "volume_1m": 122194
+        "tp": 0.2,
+        "sl": 0.189,
+        "leverage": 10,
+        "volume_1m": 150000
       }
     ]
   },
   "TUTUSDT": {
     "long": [
       {
-        "zone": [
+        "entry": [
           1.05,
           1.08
         ],
-        "tp": 1.14,
-        "sl": 1.02,
-        "leverage": 15,
-        "volume_1m": 144917
+        "tp": 1.102,
+        "sl": 1.029,
+        "leverage": 10,
+        "volume_1m": 110000
       }
     ],
     "short": [
       {
-        "zone": [
+        "entry": [
           1.12,
           1.15
         ],
-        "tp": 1.07,
-        "sl": 1.18,
-        "leverage": 15,
-        "volume_1m": 286764
+        "tp": 1.173,
+        "sl": 1.098,
+        "leverage": 10,
+        "volume_1m": 110000
       }
     ]
   },
   "BNBUSDT": {
     "long": [
       {
-        "zone": [
+        "entry": [
           305,
           308
         ],
-        "tp": 314,
-        "sl": 300,
-        "leverage": 7,
-        "volume_1m": 229452
+        "tp": 314.16,
+        "sl": 298.9,
+        "leverage": 10,
+        "volume_1m": 170000
       }
     ],
     "short": [
       {
-        "zone": [
+        "entry": [
           316,
           319
         ],
-        "tp": 308,
-        "sl": 322,
-        "leverage": 7,
-        "volume_1m": 492459
+        "tp": 325.38,
+        "sl": 309.68,
+        "leverage": 10,
+        "volume_1m": 170000
       }
     ]
   },
   "SOLUSDT": {
     "long": [
       {
-        "zone": [
+        "entry": [
           164,
           166
         ],
-        "tp": 172,
-        "sl": 160,
-        "leverage": 9,
-        "volume_1m": 449966
+        "tp": 169.32,
+        "sl": 160.72,
+        "leverage": 10,
+        "volume_1m": 220000
       }
     ],
     "short": [
       {
-        "zone": [
+        "entry": [
           172,
           175
         ],
-        "tp": 165,
-        "sl": 178,
-        "leverage": 9,
-        "volume_1m": 492159
+        "tp": 178.5,
+        "sl": 168.56,
+        "leverage": 10,
+        "volume_1m": 220000
       }
     ]
   },
   "XRPUSDT": {
     "long": [
       {
-        "zone": [
+        "entry": [
           0.565,
           0.575
         ],
-        "tp": 0.6,
-        "sl": 0.55,
+        "tp": 0.586,
+        "sl": 0.554,
         "leverage": 10,
-        "volume_1m": 177055
+        "volume_1m": 160000
       }
     ],
     "short": [
       {
-        "zone": [
+        "entry": [
           0.595,
           0.605
         ],
-        "tp": 0.575,
-        "sl": 0.615,
+        "tp": 0.617,
+        "sl": 0.583,
         "leverage": 10,
-        "volume_1m": 363319
+        "volume_1m": 160000
       }
     ]
   },
   "TRXUSDT": {
     "long": [
       {
-        "zone": [
+        "entry": [
           0.076,
           0.078
         ],
-        "tp": 0.082,
+        "tp": 0.08,
         "sl": 0.074,
         "leverage": 10,
-        "volume_1m": 106447
+        "volume_1m": 120000
       }
     ],
     "short": [
       {
-        "zone": [
+        "entry": [
           0.08,
           0.082
         ],
-        "tp": 0.077,
-        "sl": 0.084,
+        "tp": 0.084,
+        "sl": 0.078,
         "leverage": 10,
-        "volume_1m": 360462
+        "volume_1m": 120000
       }
     ]
   },
   "SUIUSDT": {
     "long": [
       {
-        "zone": [
+        "entry": [
           2.48,
           2.52
         ],
-        "tp": 2.6,
-        "sl": 2.44,
+        "tp": 2.57,
+        "sl": 2.43,
         "leverage": 10,
-        "volume_1m": 173475
+        "volume_1m": 140000
       }
     ],
     "short": [
       {
-        "zone": [
+        "entry": [
           2.65,
           2.7
         ],
-        "tp": 2.57,
-        "sl": 2.75,
+        "tp": 2.754,
+        "sl": 2.597,
         "leverage": 10,
-        "volume_1m": 168859
+        "volume_1m": 140000
       }
     ]
   },
   "ADAUSDT": {
     "long": [
       {
-        "zone": [
+        "entry": [
           0.675,
           0.685
         ],
-        "tp": 0.705,
-        "sl": 0.66,
+        "tp": 0.699,
+        "sl": 0.661,
         "leverage": 10,
-        "volume_1m": 187046
+        "volume_1m": 130000
       }
     ],
     "short": [
       {
-        "zone": [
+        "entry": [
           0.705,
           0.715
         ],
-        "tp": 0.685,
-        "sl": 0.73,
+        "tp": 0.729,
+        "sl": 0.691,
         "leverage": 10,
-        "volume_1m": 312449
+        "volume_1m": 130000
       }
     ]
   },
   "PLUMEUSDT": {
     "long": [
       {
-        "zone": [
+        "entry": [
           0.108,
           0.112
         ],
-        "tp": 0.118,
-        "sl": 0.105,
+        "tp": 0.114,
+        "sl": 0.106,
         "leverage": 10,
-        "volume_1m": 452915
+        "volume_1m": 100000
       }
     ],
     "short": [
       {
-        "zone": [
+        "entry": [
           0.12,
           0.124
         ],
-        "tp": 0.114,
-        "sl": 0.128,
+        "tp": 0.126,
+        "sl": 0.118,
         "leverage": 10,
-        "volume_1m": 396052
+        "volume_1m": 100000
       }
     ]
   },
-  "last_updated": "2025-07-15 20:25:10"
+  "last_updated": "2025-07-15 17:02:24"
 }
