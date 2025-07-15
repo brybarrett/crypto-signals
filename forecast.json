@@ -9,8 +9,7 @@
         ],
         "tp": 121000,
         "sl": 115000,
-        "leverage": "x10",
-        "volume_1m": 319948
+        "leverage": "x10"
       }
     ],
     "short": [
@@ -21,8 +20,7 @@
         ],
         "tp": 116500,
         "sl": 120500,
-        "leverage": "x10",
-        "volume_1m": 118423
+        "leverage": "x10"
       }
     ]
   },
@@ -35,8 +33,7 @@
         ],
         "tp": 3000,
         "sl": 2850,
-        "leverage": "x8",
-        "volume_1m": 457170
+        "leverage": "x8"
       }
     ],
     "short": [
@@ -47,8 +44,7 @@
         ],
         "tp": 2900,
         "sl": 3050,
-        "leverage": "x8",
-        "volume_1m": 379102
+        "leverage": "x8"
       }
     ]
   },
@@ -61,8 +57,7 @@
         ],
         "tp": 0.195,
         "sl": 0.175,
-        "leverage": "x12",
-        "volume_1m": 306671
+        "leverage": "x12"
       }
     ],
     "short": [
@@ -73,8 +68,7 @@
         ],
         "tp": 0.182,
         "sl": 0.2,
-        "leverage": "x12",
-        "volume_1m": 122194
+        "leverage": "x12"
       }
     ]
   },
@@ -87,8 +81,7 @@
         ],
         "tp": 1.14,
         "sl": 1.02,
-        "leverage": "x15",
-        "volume_1m": 144917
+        "leverage": "x15"
       }
     ],
     "short": [
@@ -99,8 +92,7 @@
         ],
         "tp": 1.07,
         "sl": 1.18,
-        "leverage": "x15",
-        "volume_1m": 286764
+        "leverage": "x15"
       }
     ]
   },
@@ -113,8 +105,7 @@
         ],
         "tp": 314,
         "sl": 300,
-        "leverage": "x7",
-        "volume_1m": 229452
+        "leverage": "x7"
       }
     ],
     "short": [
@@ -125,8 +116,7 @@
         ],
         "tp": 308,
         "sl": 322,
-        "leverage": "x7",
-        "volume_1m": 492459
+        "leverage": "x7"
       }
     ]
   },
@@ -139,8 +129,7 @@
         ],
         "tp": 172,
         "sl": 160,
-        "leverage": "x9",
-        "volume_1m": 449966
+        "leverage": "x9"
       }
     ],
     "short": [
@@ -151,8 +140,7 @@
         ],
         "tp": 165,
         "sl": 178,
-        "leverage": "x9",
-        "volume_1m": 492159
+        "leverage": "x9"
       }
     ]
   },
@@ -165,8 +153,7 @@
         ],
         "tp": 0.6,
         "sl": 0.55,
-        "leverage": "x10",
-        "volume_1m": 177055
+        "leverage": "x10"
       }
     ],
     "short": [
@@ -177,8 +164,7 @@
         ],
         "tp": 0.575,
         "sl": 0.615,
-        "leverage": "x10",
-        "volume_1m": 363319
+        "leverage": "x10"
       }
     ]
   },
@@ -191,8 +177,7 @@
         ],
         "tp": 0.082,
         "sl": 0.074,
-        "leverage": "x10",
-        "volume_1m": 106447
+        "leverage": "x10"
       }
     ],
     "short": [
@@ -203,8 +188,7 @@
         ],
         "tp": 0.077,
         "sl": 0.084,
-        "leverage": "x10",
-        "volume_1m": 360462
+        "leverage": "x10"
       }
     ]
   },
@@ -217,8 +201,7 @@
         ],
         "tp": 2.6,
         "sl": 2.44,
-        "leverage": "x10",
-        "volume_1m": 173475
+        "leverage": "x10"
       }
     ],
     "short": [
@@ -229,8 +212,7 @@
         ],
         "tp": 2.57,
         "sl": 2.75,
-        "leverage": "x10",
-        "volume_1m": 168859
+        "leverage": "x10"
       }
     ]
   },
@@ -243,8 +225,7 @@
         ],
         "tp": 0.705,
         "sl": 0.66,
-        "leverage": "x10",
-        "volume_1m": 187046
+        "leverage": "x10"
       }
     ],
     "short": [
@@ -255,8 +236,7 @@
         ],
         "tp": 0.685,
         "sl": 0.73,
-        "leverage": "x10",
-        "volume_1m": 312449
+        "leverage": "x10"
       }
     ]
   },
@@ -269,20 +249,18 @@
         ],
         "tp": 0.118,
         "sl": 0.105,
-        "leverage": "x10",
-        "volume_1m": 452915
+        "leverage": "x10"
       }
     ],
     "short": [
       {
         "zone": [
           0.12,
-          0.124
+          0.124	
         ],
         "tp": 0.114,
         "sl": 0.128,
-        "leverage": "x10",
-        "volume_1m": 396052
+        "leverage": "x10"
       }
     ]
   }
