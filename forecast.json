@@ -1,27 +1,28 @@
 {
+  "last_updated": "2025-07-15 20:25:10",
   "BTCUSDT": {
     "long": [
       {
         "entry": [
-          122000,
-          122500
+          117000,
+          117300
         ],
-        "tp": 125000,
-        "sl": 121000,
-        "leverage": 5,
-        "volume_1m": 350000
+        "tp": 121000,
+        "sl": 115000,
+        "leverage": "x10",
+        "volume_1m": 319948
       }
     ],
     "short": [
       {
         "entry": [
-          126000,
-          126500
+          119200,
+          119500
         ],
-        "tp": 122000,
-        "sl": 127000,
-        "leverage": 5,
-        "volume_1m": 360000
+        "tp": 116500,
+        "sl": 120500,
+        "leverage": "x10",
+        "volume_1m": 118423
       }
     ]
   },
@@ -29,41 +30,260 @@
     "long": [
       {
         "entry": [
-          3300,
-          3320
+          2900,
+          2920
         ],
-        "tp": 3400,
-        "sl": 3250,
-        "leverage": 5,
-        "volume_1m": 280000
+        "tp": 3000,
+        "sl": 2850,
+        "leverage": "x8",
+        "volume_1m": 457170
       }
     ],
     "short": [
       {
         "entry": [
-          3450,
-          3480
+          2980,
+          3000
         ],
-        "tp": 3350,
-        "sl": 3510,
-        "leverage": 5,
-        "volume_1m": 300000
+        "tp": 2900,
+        "sl": 3050,
+        "leverage": "x8",
+        "volume_1m": 379102
       }
     ]
   },
-  "WLDUSDT": {
+  "MOODENGUSDT": {
+    "long": [
+      {
+        "entry": [
+          0.18,
+          0.183
+        ],
+        "tp": 0.195,
+        "sl": 0.175,
+        "leverage": "x12",
+        "volume_1m": 306671
+      }
+    ],
     "short": [
       {
         "entry": [
-          2.68,
-          2.72
+          0.193,
+          0.196
         ],
-        "tp": 2.45,
-        "sl": 2.77,
-        "leverage": 5,
-        "volume_1m": 180000
+        "tp": 0.182,
+        "sl": 0.2,
+        "leverage": "x12",
+        "volume_1m": 122194
       }
     ]
   },
-  "last_updated": "2025-07-15 09:07:43"
+  "TUTUSDT": {
+    "long": [
+      {
+        "entry": [
+          1.05,
+          1.08
+        ],
+        "tp": 1.14,
+        "sl": 1.02,
+        "leverage": "x15",
+        "volume_1m": 144917
+      }
+    ],
+    "short": [
+      {
+        "entry": [
+          1.12,
+          1.15
+        ],
+        "tp": 1.07,
+        "sl": 1.18,
+        "leverage": "x15",
+        "volume_1m": 286764
+      }
+    ]
+  },
+  "BNBUSDT": {
+    "long": [
+      {
+        "entry": [
+          305,
+          308
+        ],
+        "tp": 314,
+        "sl": 300,
+        "leverage": "x7",
+        "volume_1m": 229452
+      }
+    ],
+    "short": [
+      {
+        "entry": [
+          316,
+          319
+        ],
+        "tp": 308,
+        "sl": 322,
+        "leverage": "x7",
+        "volume_1m": 492459
+      }
+    ]
+  },
+  "SOLUSDT": {
+    "long": [
+      {
+        "entry": [
+          164,
+          166
+        ],
+        "tp": 172,
+        "sl": 160,
+        "leverage": "x9",
+        "volume_1m": 449966
+      }
+    ],
+    "short": [
+      {
+        "entry": [
+          172,
+          175
+        ],
+        "tp": 165,
+        "sl": 178,
+        "leverage": "x9",
+        "volume_1m": 492159
+      }
+    ]
+  },
+  "XRPUSDT": {
+    "long": [
+      {
+        "entry": [
+          0.565,
+          0.575
+        ],
+        "tp": 0.6,
+        "sl": 0.55,
+        "leverage": "x10",
+        "volume_1m": 177055
+      }
+    ],
+    "short": [
+      {
+        "entry": [
+          0.595,
+          0.605
+        ],
+        "tp": 0.575,
+        "sl": 0.615,
+        "leverage": "x10",
+        "volume_1m": 363319
+      }
+    ]
+  },
+  "TRXUSDT": {
+    "long": [
+      {
+        "entry": [
+          0.076,
+          0.078
+        ],
+        "tp": 0.082,
+        "sl": 0.074,
+        "leverage": "x10",
+        "volume_1m": 106447
+      }
+    ],
+    "short": [
+      {
+        "entry": [
+          0.08,
+          0.082
+        ],
+        "tp": 0.077,
+        "sl": 0.084,
+        "leverage": "x10",
+        "volume_1m": 360462
+      }
+    ]
+  },
+  "SUIUSDT": {
+    "long": [
+      {
+        "entry": [
+          2.48,
+          2.52
+        ],
+        "tp": 2.6,
+        "sl": 2.44,
+        "leverage": "x10",
+        "volume_1m": 173475
+      }
+    ],
+    "short": [
+      {
+        "entry": [
+          2.65,
+          2.7
+        ],
+        "tp": 2.57,
+        "sl": 2.75,
+        "leverage": "x10",
+        "volume_1m": 168859
+      }
+    ]
+  },
+  "ADAUSDT": {
+    "long": [
+      {
+        "entry": [
+          0.675,
+          0.685
+        ],
+        "tp": 0.705,
+        "sl": 0.66,
+        "leverage": "x10",
+        "volume_1m": 187046
+      }
+    ],
+    "short": [
+      {
+        "entry": [
+          0.705,
+          0.715
+        ],
+        "tp": 0.685,
+        "sl": 0.73,
+        "leverage": "x10",
+        "volume_1m": 312449
+      }
+    ]
+  },
+  "PLUMEUSDT": {
+    "long": [
+      {
+        "entry": [
+          0.108,
+          0.112
+        ],
+        "tp": 0.118,
+        "sl": 0.105,
+        "leverage": "x10",
+        "volume_1m": 452915
+      }
+    ],
+    "short": [
+      {
+        "entry": [
+          0.12,
+          0.124
+        ],
+        "tp": 0.114,
+        "sl": 0.128,
+        "leverage": "x10",
+        "volume_1m": 396052
+      }
+    ]
+  }
 }
