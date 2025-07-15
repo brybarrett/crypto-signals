@@ -9,7 +9,7 @@
         ],
         "tp": 121000,
         "sl": 115000,
-        "leverage": "x10"
+        "leverage": "10"
       }
     ],
     "short": [
@@ -20,7 +20,7 @@
         ],
         "tp": 116500,
         "sl": 120500,
-        "leverage": "x10"
+        "leverage": "10"
       }
     ]
   },
@@ -33,7 +33,7 @@
         ],
         "tp": 3000,
         "sl": 2850,
-        "leverage": "x8"
+        "leverage": "8"
       }
     ],
     "short": [
@@ -44,7 +44,7 @@
         ],
         "tp": 2900,
         "sl": 3050,
-        "leverage": "x8"
+        "leverage": "8"
       }
     ]
   },
@@ -57,7 +57,7 @@
         ],
         "tp": 0.195,
         "sl": 0.175,
-        "leverage": "x12"
+        "leverage": "12"
       }
     ],
     "short": [
@@ -68,7 +68,7 @@
         ],
         "tp": 0.182,
         "sl": 0.2,
-        "leverage": "x12"
+        "leverage": "12"
       }
     ]
   },
@@ -81,7 +81,7 @@
         ],
         "tp": 1.14,
         "sl": 1.02,
-        "leverage": "x15"
+        "leverage": "15"
       }
     ],
     "short": [
@@ -92,7 +92,7 @@
         ],
         "tp": 1.07,
         "sl": 1.18,
-        "leverage": "x15"
+        "leverage": "15"
       }
     ]
   },
@@ -105,7 +105,7 @@
         ],
         "tp": 314,
         "sl": 300,
-        "leverage": "x7"
+        "leverage": "7"
       }
     ],
     "short": [
@@ -116,7 +116,7 @@
         ],
         "tp": 308,
         "sl": 322,
-        "leverage": "x7"
+        "leverage": "7"
       }
     ]
   },
@@ -129,7 +129,7 @@
         ],
         "tp": 172,
         "sl": 160,
-        "leverage": "x9"
+        "leverage": "9"
       }
     ],
     "short": [
@@ -140,11 +140,11 @@
         ],
         "tp": 165,
         "sl": 178,
-        "leverage": "x9"
+        "leverage": "9"
       }
     ]
   },
-  "XRPUSDT": {
+  "RPUSDT": {
     "long": [
       {
         "zone": [
@@ -153,7 +153,7 @@
         ],
         "tp": 0.6,
         "sl": 0.55,
-        "leverage": "x10"
+        "leverage": "10"
       }
     ],
     "short": [
@@ -164,11 +164,11 @@
         ],
         "tp": 0.575,
         "sl": 0.615,
-        "leverage": "x10"
+        "leverage": "10"
       }
     ]
   },
-  "TRXUSDT": {
+  "TRUSDT": {
     "long": [
       {
         "zone": [
@@ -177,7 +177,7 @@
         ],
         "tp": 0.082,
         "sl": 0.074,
-        "leverage": "x10"
+        "leverage": "10"
       }
     ],
     "short": [
@@ -188,7 +188,7 @@
         ],
         "tp": 0.077,
         "sl": 0.084,
-        "leverage": "x10"
+        "leverage": "10"
       }
     ]
   },
@@ -201,7 +201,7 @@
         ],
         "tp": 2.6,
         "sl": 2.44,
-        "leverage": "x10"
+        "leverage": "10"
       }
     ],
     "short": [
@@ -212,7 +212,7 @@
         ],
         "tp": 2.57,
         "sl": 2.75,
-        "leverage": "x10"
+        "leverage": "10"
       }
     ]
   },
@@ -225,7 +225,7 @@
         ],
         "tp": 0.705,
         "sl": 0.66,
-        "leverage": "x10"
+        "leverage": "10"
       }
     ],
     "short": [
@@ -236,7 +236,7 @@
         ],
         "tp": 0.685,
         "sl": 0.73,
-        "leverage": "x10"
+        "leverage": "10"
       }
     ]
   },
@@ -249,7 +249,7 @@
         ],
         "tp": 0.118,
         "sl": 0.105,
-        "leverage": "x10"
+        "leverage": "10"
       }
     ],
     "short": [
@@ -260,7 +260,7 @@
         ],
         "tp": 0.114,
         "sl": 0.128,
-        "leverage": "x10"
+        "leverage": "10"
       }
     ]
   }
