@@ -1,4 +1,50 @@
 {
+  "1000BONKUSDT": {
+    "long": [
+      {
+        "zone": [
+          0.034617,
+          0.034651
+        ],
+        "sl": 0.03415,
+        "tp": 0.036155,
+        "leverage": 0.35,
+        "po": "Отбой",
+        "ATR_rem": 0.000239,
+        "price": 0.034686,
+        "ATR": 0.005012,
+        "rsi": 35.91,
+        "macd": -0.001445,
+        "macd_signal": -0.001587
+      }
+    ],
+    "short": []
+  },
+  "1000FLOKIUSDT": {
+    "long": [
+      {
+        "zone": [
+          0.139341,
+          0.13948
+        ],
+        "sl": 0.138232,
+        "tp": 0.143225,
+        "leverage": 0.56,
+        "po": "Отбой",
+        "ATR_rem": 0.000594,
+        "price": 0.13962,
+        "ATR": 0.012484,
+        "rsi": 37.59,
+        "macd": -0.004689,
+        "macd_signal": -0.005493
+      }
+    ],
+    "short": []
+  },
+  "1000NEIROCTOUSDT": {
+    "long": [],
+    "short": []
+  },
   "1000PEPEUSDT": {
     "long": [],
     "short": []
@@ -11,6 +57,26 @@
     "long": [],
     "short": []
   },
+  "AI16ZUSDT": {
+    "long": [],
+    "short": []
+  },
+  "ALGOUSDT": {
+    "long": [],
+    "short": []
+  },
+  "ANIMEUSDT": {
+    "long": [],
+    "short": []
+  },
+  "APEUSDT": {
+    "long": [],
+    "short": []
+  },
+  "APTUSDT": {
+    "long": [],
+    "short": []
+  },
   "ARBUSDT": {
     "long": [],
     "short": []
@@ -19,11 +85,64 @@
     "long": [],
     "short": []
   },
+  "BCHUSDT": {
+    "long": [],
+    "short": []
+  },
+  "BLURUSDT": {
+    "long": [],
+    "short": []
+  },
   "BNBUSDT": {
     "long": [],
     "short": []
   },
+  "BRETTUSDT": {
+    "long": [],
+    "short": []
+  },
+  "BTCPERP": {
+    "long": [],
+    "short": []
+  },
   "BTCUSDT": {
+    "long": [],
+    "short": []
+  },
+  "CFXUSDT": {
+    "long": [],
+    "short": []
+  },
+  "CKBUSDT": {
+    "long": [],
+    "short": []
+  },
+  "CROSSUSDT": {
+    "long": [],
+    "short": []
+  },
+  "CRVUSDT": {
+    "long": [
+      {
+        "zone": [
+          0.971553,
+          0.972527
+        ],
+        "sl": 0.966479,
+        "tp": 0.990671,
+        "leverage": 0.8,
+        "po": "Отбой",
+        "ATR_rem": 0.00288,
+        "price": 0.9735,
+        "ATR": 0.06048,
+        "rsi": 37.26,
+        "macd": -0.034187,
+        "macd_signal": -0.036414
+      }
+    ],
+    "short": []
+  },
+  "CUSDT": {
     "long": [],
     "short": []
   },
@@ -35,23 +154,76 @@
     "long": [],
     "short": []
   },
+  "DRIFTUSDT": {
+    "long": [],
+    "short": []
+  },
+  "ELXUSDT": {
+    "long": [],
+    "short": []
+  },
+  "ENAUSDT": {
+    "long": [],
+    "short": []
+  },
+  "ENSUSDT": {
+    "long": [],
+    "short": []
+  },
+  "EPICUSDT": {
+    "long": [],
+    "short": []
+  },
+  "ERAUSDT": {
+    "long": [],
+    "short": []
+  },
+  "ETCUSDT": {
+    "long": [],
+    "short": []
+  },
+  "ETHFIUSDT": {
+    "long": [],
+    "short": []
+  },
+  "ETHPERP": {
+    "long": [
+      {
+        "zone": [
+          3778.59766,
+          3782.38383
+        ],
+        "sl": 3763.88388,
+        "tp": 3837.88368,
+        "leverage": 1.02,
+        "po": "Отбой",
+        "ATR_rem": 8.8095,
+        "price": 3786.17,
+        "ATR": 184.9995,
+        "rsi": 38.61,
+        "macd": -61.437234,
+        "macd_signal": -62.95967
+      }
+    ],
+    "short": []
+  },
   "ETHUSDT": {
     "long": [
       {
         "zone": [
-          3780.43398,
-          3784.22199
+          3779.925,
+          3783.7125
         ],
-        "sl": 3765.24114,
-        "tp": 3841.16454,
+        "sl": 3764.73165,
+        "tp": 3840.65505,
         "leverage": 1.0,
         "po": "Отбой",
         "ATR_rem": 9.0385,
-        "price": 3788.01,
+        "price": 3787.5,
         "ATR": 189.8085,
         "rsi": 38.55,
-        "macd": -60.8105,
-        "macd_signal": -62.441517
+        "macd": -60.810494,
+        "macd_signal": -62.441509
       }
     ],
     "short": []
@@ -60,11 +232,59 @@
     "long": [],
     "short": []
   },
+  "FILUSDT": {
+    "long": [],
+    "short": []
+  },
+  "GALAUSDT": {
+    "long": [],
+    "short": []
+  },
+  "GOATUSDT": {
+    "long": [],
+    "short": []
+  },
+  "GRASSUSDT": {
+    "long": [],
+    "short": []
+  },
+  "HBARUSDT": {
+    "long": [],
+    "short": []
+  },
+  "HYPEUSDT": {
+    "long": [],
+    "short": []
+  },
+  "INJUSDT": {
+    "long": [],
+    "short": []
+  },
+  "JASMYUSDT": {
+    "long": [],
+    "short": []
+  },
+  "JTOUSDT": {
+    "long": [],
+    "short": []
+  },
+  "JUPUSDT": {
+    "long": [],
+    "short": []
+  },
+  "KASUSDT": {
+    "long": [],
+    "short": []
+  },
+  "LDOUSDT": {
+    "long": [],
+    "short": []
+  },
   "LINKUSDT": {
     "long": [],
     "short": []
   },
-  "LPTUSDT": {
+  "LTCUSDT": {
     "long": [],
     "short": []
   },
@@ -72,11 +292,55 @@
     "long": [],
     "short": []
   },
-  "PLUMEUSDT": {
+  "MOVEUSDT": {
+    "long": [],
+    "short": []
+  },
+  "MUSDT": {
+    "long": [],
+    "short": []
+  },
+  "NEARUSDT": {
+    "long": [],
+    "short": []
+  },
+  "OMUSDT": {
+    "long": [],
+    "short": []
+  },
+  "ONDOUSDT": {
+    "long": [],
+    "short": []
+  },
+  "OPUSDT": {
+    "long": [],
+    "short": []
+  },
+  "ORDIUSDT": {
+    "long": [],
+    "short": []
+  },
+  "PENGUUSDT": {
+    "long": [],
+    "short": []
+  },
+  "PNUTUSDT": {
     "long": [],
     "short": []
   },
   "POPCATUSDT": {
+    "long": [],
+    "short": []
+  },
+  "PUMPFUNUSDT": {
+    "long": [],
+    "short": []
+  },
+  "RENDERUSDT": {
+    "long": [],
+    "short": []
+  },
+  "SEIUSDT": {
     "long": [],
     "short": []
   },
@@ -88,7 +352,19 @@
     "long": [],
     "short": []
   },
+  "SPXUSDT": {
+    "long": [],
+    "short": []
+  },
+  "STRKUSDT": {
+    "long": [],
+    "short": []
+  },
   "SUIUSDT": {
+    "long": [],
+    "short": []
+  },
+  "TAOUSDT": {
     "long": [],
     "short": []
   },
@@ -100,7 +376,7 @@
     "long": [],
     "short": []
   },
-  "TRBUSDT": {
+  "TRUMPUSDT": {
     "long": [],
     "short": []
   },
@@ -108,7 +384,19 @@
     "long": [],
     "short": []
   },
-  "TUTUSDT": {
+  "UMAUSDT": {
+    "long": [],
+    "short": []
+  },
+  "UNIUSDT": {
+    "long": [],
+    "short": []
+  },
+  "USELESSUSDT": {
+    "long": [],
+    "short": []
+  },
+  "VIRTUALUSDT": {
     "long": [],
     "short": []
   },
@@ -116,9 +404,25 @@
     "long": [],
     "short": []
   },
+  "WLDUSDT": {
+    "long": [],
+    "short": []
+  },
+  "XLMUSDT": {
+    "long": [],
+    "short": []
+  },
   "XRPUSDT": {
     "long": [],
     "short": []
   },
-  "last_updated": "2025-07-22 01:12:11"
+  "XTZUSDT": {
+    "long": [],
+    "short": []
+  },
+  "ZORAUSDT": {
+    "long": [],
+    "short": []
+  },
+  "last_updated": "2025-07-22 01:13:51"
 }
