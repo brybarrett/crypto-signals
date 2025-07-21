@@ -1,3 +1,158 @@
 {
-  "last_updated": "2025-07-22 00:26:17"
+  "1000PEPEUSDT": {
+    "long": [],
+    "short": []
+  },
+  "AAVEUSDT": {
+    "long": [],
+    "short": []
+  },
+  "ADAUSDT": {
+    "long": [],
+    "short": []
+  },
+  "ARBUSDT": {
+    "long": [],
+    "short": []
+  },
+  "AVAXUSDT": {
+    "long": [],
+    "short": []
+  },
+  "BNBUSDT": {
+    "long": [
+      {
+        "zone": [
+          764.967,
+          765.7335
+        ],
+        "sl": 761.7855,
+        "tp": 777.5775,
+        "leverage": 0.97,
+        "po": "Отбой",
+        "ATR_rem": 1.88,
+        "price": 766.5,
+        "ATR": 39.48,
+        "rsi": 37.37,
+        "macd": -5.057105,
+        "macd_signal": -5.31289
+      }
+    ],
+    "short": []
+  },
+  "BTCUSDT": {
+    "long": [],
+    "short": []
+  },
+  "DOGEUSDT": {
+    "long": [],
+    "short": []
+  },
+  "DOTUSDT": {
+    "long": [],
+    "short": []
+  },
+  "ETHUSDT": {
+    "long": [
+      {
+        "zone": [
+          3774.42602,
+          3778.20801
+        ],
+        "sl": 3759.22716,
+        "tp": 3835.15056,
+        "leverage": 1.0,
+        "po": "Отбой",
+        "ATR_rem": 9.0385,
+        "price": 3781.99,
+        "ATR": 189.8085,
+        "rsi": 33.55,
+        "macd": -61.573909,
+        "macd_signal": -62.267916
+      }
+    ],
+    "short": []
+  },
+  "FARTCOINUSDT": {
+    "long": [],
+    "short": []
+  },
+  "LINKUSDT": {
+    "long": [],
+    "short": []
+  },
+  "LPTUSDT": {
+    "long": [],
+    "short": []
+  },
+  "MOODENGUSDT": {
+    "long": [],
+    "short": []
+  },
+  "PLUMEUSDT": {
+    "long": [],
+    "short": []
+  },
+  "POPCATUSDT": {
+    "long": [],
+    "short": []
+  },
+  "SHIB1000USDT": {
+    "long": [],
+    "short": []
+  },
+  "SOLUSDT": {
+    "long": [
+      {
+        "zone": [
+          196.02716,
+          196.22358
+        ],
+        "sl": 193.93773,
+        "tp": 203.08113,
+        "leverage": 0.43,
+        "po": "Отбой",
+        "ATR_rem": 1.0885,
+        "price": 196.42,
+        "ATR": 22.8585,
+        "rsi": 38.78,
+        "macd": -2.273609,
+        "macd_signal": -2.38992
+      }
+    ],
+    "short": []
+  },
+  "SUIUSDT": {
+    "long": [],
+    "short": []
+  },
+  "TIAUSDT": {
+    "long": [],
+    "short": []
+  },
+  "TONUSDT": {
+    "long": [],
+    "short": []
+  },
+  "TRBUSDT": {
+    "long": [],
+    "short": []
+  },
+  "TRXUSDT": {
+    "long": [],
+    "short": []
+  },
+  "TUTUSDT": {
+    "long": [],
+    "short": []
+  },
+  "WIFUSDT": {
+    "long": [],
+    "short": []
+  },
+  "XRPUSDT": {
+    "long": [],
+    "short": []
+  },
+  "last_updated": "2025-07-22 00:35:20"
 }
