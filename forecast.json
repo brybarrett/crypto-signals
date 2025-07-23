@@ -3,47 +3,47 @@
     "long": [
       {
         "zone": [
-          117758.511,
-          117876.5055
+          117989.548,
+          118107.774
         ],
-        "sl": 117559.3005,
-        "tp": 118828.1205,
+        "sl": 117790.569,
+        "tp": 119059.389,
         "leverage": 1.86,
         "po": "Отбой",
         "ATR_rem": 151.05,
-        "price": 117994.5,
+        "price": 118226.0,
         "ATR": 3172.05,
         "RSI": null,
         "MACD": null,
         "MACD_signal": null,
         "EMA20": null,
         "EMA50": null,
-        "price_change_1h": -110109.96,
-        "structure": "HH"
+        "price_change_1h": -113139.212,
+        "structure": ""
       }
     ],
     "short": [
       {
         "zone": [
-          118112.4945,
-          118230.489
+          118344.226,
+          118462.452
         ],
-        "sl": 118429.6995,
-        "tp": 117160.8795,
+        "sl": 118661.431,
+        "tp": 117392.611,
         "leverage": 1.86,
         "po": "Пробой",
         "ATR_rem": 151.05,
-        "price": 117994.5,
+        "price": 118226.0,
         "ATR": 3172.05,
         "RSI": null,
         "MACD": null,
         "MACD_signal": null,
         "EMA20": null,
         "EMA50": null,
-        "price_change_1h": -110109.96,
-        "structure": "HH"
+        "price_change_1h": -113139.212,
+        "structure": ""
       }
     ]
   },
-  "last_updated": "2025-07-23 21:56:09"
+  "last_updated": "2025-07-23 22:05:12"
 }
