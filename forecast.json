@@ -1,49 +1,449 @@
 {
+  "1000000MOGUSDT": {
+    "long": [],
+    "short": []
+  },
+  "1000BONKUSDT": {
+    "long": [],
+    "short": []
+  },
+  "1000FLOKIUSDT": {
+    "long": [],
+    "short": []
+  },
+  "1000PEPEUSDT": {
+    "long": [],
+    "short": []
+  },
+  "AAVEUSDT": {
+    "long": [],
+    "short": []
+  },
+  "ADAUSDT": {
+    "long": [],
+    "short": []
+  },
+  "AERGOUSDT": {
+    "long": [],
+    "short": []
+  },
+  "AI16ZUSDT": {
+    "long": [],
+    "short": []
+  },
+  "ALGOUSDT": {
+    "long": [],
+    "short": []
+  },
+  "APTUSDT": {
+    "long": [],
+    "short": []
+  },
+  "ARBUSDT": {
+    "long": [],
+    "short": []
+  },
+  "ATOMUSDT": {
+    "long": [],
+    "short": []
+  },
+  "AVAXUSDT": {
+    "long": [],
+    "short": []
+  },
+  "BCHUSDT": {
+    "long": [],
+    "short": []
+  },
+  "BNBUSDT": {
+    "long": [],
+    "short": []
+  },
+  "BRETTUSDT": {
+    "long": [],
+    "short": []
+  },
+  "BTCPERP": {
+    "long": [],
+    "short": []
+  },
   "BTCUSDT": {
+    "long": [],
+    "short": []
+  },
+  "CFXUSDT": {
+    "long": [],
+    "short": []
+  },
+  "CRVUSDT": {
+    "long": [],
+    "short": []
+  },
+  "CUSDT": {
     "long": [
       {
         "zone": [
-          117786.55480000001,
-          117904.57740000001
+          0.379689,
+          0.38007
         ],
-        "sl": 117587.3724,
-        "tp": 118856.1924,
-        "leverage": 1.86,
+        "sl": 0.364386,
+        "tp": 0.427122,
+        "leverage": 0.12,
         "po": "Отбой",
-        "ATR_rem": 151.05,
-        "price": 118134.0,
-        "ATR": 3172.05,
-        "RSI": null,
-        "MACD": null,
-        "MACD_signal": null,
-        "EMA20": null,
-        "EMA50": null,
-        "price_change_1h": -113149.212,
-        "structure": ""
+        "ATR_rem": 0.007469,
+        "price": 0.38045,
+        "ATR": 0.156839,
+        "rsi": 31.68,
+        "macd": -0.041959,
+        "macd_signal": -0.048095
       }
     ],
+    "short": []
+  },
+  "DOGEUSDT": {
+    "long": [
+      {
+        "zone": [
+          0.247534,
+          0.247782
+        ],
+        "sl": 0.244547,
+        "tp": 0.257487,
+        "leverage": 0.38,
+        "po": "Отбой",
+        "ATR_rem": 0.001541,
+        "price": 0.24803,
+        "ATR": 0.032351,
+        "rsi": 36.89,
+        "macd": -0.006176,
+        "macd_signal": -0.00671
+      }
+    ],
+    "short": []
+  },
+  "DOTUSDT": {
+    "long": [],
+    "short": []
+  },
+  "ENAUSDT": {
+    "long": [],
+    "short": []
+  },
+  "ENSUSDT": {
+    "long": [],
+    "short": []
+  },
+  "ERAUSDT": {
+    "long": [],
+    "short": []
+  },
+  "ETCUSDT": {
+    "long": [
+      {
+        "zone": [
+          22.548812,
+          22.571406
+        ],
+        "sl": 22.310271,
+        "tp": 23.354811,
+        "leverage": 0.43,
+        "po": "Отбой",
+        "ATR_rem": 0.12435,
+        "price": 22.594,
+        "ATR": 2.61135,
+        "rsi": 34.07,
+        "macd": -0.817844,
+        "macd_signal": -0.8971
+      }
+    ],
+    "short": []
+  },
+  "ETHFIUSDT": {
+    "long": [],
+    "short": []
+  },
+  "ETHPERP": {
+    "long": [],
+    "short": []
+  },
+  "ETHUSDT": {
+    "long": [],
+    "short": []
+  },
+  "FARTCOINUSDT": {
+    "long": [],
+    "short": []
+  },
+  "FILUSDT": {
+    "long": [],
+    "short": []
+  },
+  "GALAUSDT": {
+    "long": [],
+    "short": []
+  },
+  "GOATUSDT": {
+    "long": [],
+    "short": []
+  },
+  "HBARUSDT": {
+    "long": [],
+    "short": []
+  },
+  "HYPERUSDT": {
+    "long": [],
+    "short": []
+  },
+  "HYPEUSDT": {
+    "long": [],
+    "short": []
+  },
+  "INJUSDT": {
+    "long": [],
+    "short": []
+  },
+  "JTOUSDT": {
+    "long": [],
+    "short": []
+  },
+  "JUPUSDT": {
+    "long": [],
+    "short": []
+  },
+  "LAUNCHCOINUSDT": {
+    "long": [],
+    "short": []
+  },
+  "LDOUSDT": {
+    "long": [],
+    "short": []
+  },
+  "LINKUSDT": {
+    "long": [],
+    "short": []
+  },
+  "LTCUSDT": {
+    "long": [],
+    "short": []
+  },
+  "MOODENGUSDT": {
+    "long": [],
+    "short": []
+  },
+  "MUSDT": {
+    "long": [],
+    "short": []
+  },
+  "NEARUSDT": {
+    "long": [],
+    "short": []
+  },
+  "NEWTUSDT": {
+    "long": [],
+    "short": []
+  },
+  "OMUSDT": {
+    "long": [],
+    "short": []
+  },
+  "ONDOUSDT": {
+    "long": [],
+    "short": []
+  },
+  "OPUSDT": {
+    "long": [],
+    "short": []
+  },
+  "ORDIUSDT": {
+    "long": [],
+    "short": []
+  },
+  "PENGUUSDT": {
+    "long": [],
+    "short": []
+  },
+  "PEOPLEUSDT": {
+    "long": [],
+    "short": []
+  },
+  "PIPPINUSDT": {
+    "long": [],
+    "short": []
+  },
+  "PNUTUSDT": {
+    "long": [],
+    "short": []
+  },
+  "POPCATUSDT": {
+    "long": [],
+    "short": []
+  },
+  "PUMPFUNUSDT": {
+    "long": [],
     "short": [
       {
         "zone": [
-          118261.04289999999,
-          118379.18579999999
+          0.003948,
+          0.003952
         ],
-        "sl": 118578.2479,
-        "tp": 117309.4279,
-        "leverage": 1.86,
+        "sl": 0.003995,
+        "tp": 0.003806,
+        "leverage": 0.42,
         "po": "Пробой",
-        "ATR_rem": 151.05,
-        "price": 118134.0,
-        "ATR": 3172.05,
-        "RSI": null,
-        "MACD": null,
-        "MACD_signal": null,
-        "EMA20": null,
-        "EMA50": null,
-        "price_change_1h": -113149.212,
-        "structure": ""
+        "ATR_rem": 2.3e-05,
+        "price": 0.003944,
+        "ATR": 0.000473,
+        "rsi": 63.96,
+        "macd": 0.000208,
+        "macd_signal": 0.000213
       }
     ]
   },
-  "last_updated": "2025-07-23 22:35:15"
+  "RENDERUSDT": {
+    "long": [],
+    "short": []
+  },
+  "RESOLVUSDT": {
+    "long": [],
+    "short": []
+  },
+  "SAHARAUSDT": {
+    "long": [],
+    "short": []
+  },
+  "SEIUSDT": {
+    "long": [],
+    "short": []
+  },
+  "SHIB1000USDT": {
+    "long": [],
+    "short": []
+  },
+  "SLPUSDT": {
+    "long": [],
+    "short": []
+  },
+  "SOLUSDT": {
+    "long": [],
+    "short": []
+  },
+  "SOPHUSDT": {
+    "long": [],
+    "short": []
+  },
+  "SPKUSDT": {
+    "long": [],
+    "short": []
+  },
+  "SPXUSDT": {
+    "long": [],
+    "short": []
+  },
+  "SUIUSDT": {
+    "long": [],
+    "short": []
+  },
+  "SYNUSDT": {
+    "long": [],
+    "short": []
+  },
+  "TAOUSDT": {
+    "long": [],
+    "short": []
+  },
+  "TIAUSDT": {
+    "long": [],
+    "short": []
+  },
+  "TONUSDT": {
+    "long": [],
+    "short": []
+  },
+  "TRBUSDT": {
+    "long": [],
+    "short": []
+  },
+  "TRUMPUSDT": {
+    "long": [],
+    "short": []
+  },
+  "TRXUSDT": {
+    "long": [],
+    "short": []
+  },
+  "UMAUSDT": {
+    "long": [],
+    "short": []
+  },
+  "UNIUSDT": {
+    "long": [
+      {
+        "zone": [
+          10.025908,
+          10.035954
+        ],
+        "sl": 9.921924,
+        "tp": 10.378044,
+        "leverage": 0.44,
+        "po": "Отбой",
+        "ATR_rem": 0.0543,
+        "price": 10.046,
+        "ATR": 1.1403,
+        "rsi": 35.16,
+        "macd": -0.323805,
+        "macd_signal": -0.348851
+      }
+    ],
+    "short": []
+  },
+  "VIRTUALUSDT": {
+    "long": [],
+    "short": []
+  },
+  "WIFUSDT": {
+    "long": [],
+    "short": []
+  },
+  "WLDUSDT": {
+    "long": [],
+    "short": []
+  },
+  "XEMUSDT": {
+    "long": [],
+    "short": []
+  },
+  "XLMUSDT": {
+    "long": [],
+    "short": []
+  },
+  "XRPUSDT": {
+    "long": [],
+    "short": []
+  },
+  "XTZUSDT": {
+    "long": [
+      {
+        "zone": [
+          0.898899,
+          0.899799
+        ],
+        "sl": 0.885298,
+        "tp": 0.9433,
+        "leverage": 0.31,
+        "po": "Отбой",
+        "ATR_rem": 0.006905,
+        "price": 0.9007,
+        "ATR": 0.145005,
+        "rsi": 37.37,
+        "macd": -0.019812,
+        "macd_signal": -0.023526
+      }
+    ],
+    "short": []
+  },
+  "ZORAUSDT": {
+    "long": [],
+    "short": []
+  },
+  "last_updated": "2025-07-23 22:44:05"
 }
