@@ -1,0 +1,2 @@
+timestamp,symbol,side,reason,extra
+2025-08-11 00:16:11,1000NEIROCTOUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
