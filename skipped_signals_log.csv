@@ -164,3 +164,4 @@ timestamp,symbol,side,reason,extra
 2025-08-11 21:09:00,XRPUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": true}"
 2025-08-11 21:09:01,1000PEPEUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": true}"
 2025-08-11 21:09:02,SUIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": true}"
+2025-08-11 21:09:03,SUIUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": true}"
