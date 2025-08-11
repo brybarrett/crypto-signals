@@ -948,3 +948,4 @@ timestamp,symbol,side,reason,extra
 2025-08-12 02:02:25,OMUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 02:02:44,BCHUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 02:02:45,BCHUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-12 02:03:13,UNIUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
