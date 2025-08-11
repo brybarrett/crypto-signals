@@ -485,3 +485,4 @@ timestamp,symbol,side,reason,extra
 2025-08-12 00:44:22,ORDIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 00:44:40,TIAUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 00:44:41,TIAUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-12 00:45:27,SOLUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
