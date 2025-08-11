@@ -659,3 +659,4 @@ timestamp,symbol,side,reason,extra
 2025-08-12 01:11:23,BCHUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 01:11:24,BCHUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 01:11:27,TONUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-12 01:11:28,TONUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
