@@ -488,3 +488,4 @@ timestamp,symbol,side,reason,extra
 2025-08-12 00:45:27,SOLUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 00:45:51,TIAUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 00:45:52,TIAUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-12 00:45:55,1000FLOKIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
