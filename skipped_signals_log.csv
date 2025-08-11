@@ -312,3 +312,4 @@ timestamp,symbol,side,reason,extra
 2025-08-11 23:19:32,LTCUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-11 23:19:33,LTCUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-11 23:20:19,LTCUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-11 23:20:21,LTCUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
