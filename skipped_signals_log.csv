@@ -203,3 +203,4 @@ timestamp,symbol,side,reason,extra
 2025-08-11 21:09:42,PENGUUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": true}"
 2025-08-11 21:09:43,AVAXUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": true}"
 2025-08-11 21:09:44,AVAXUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": true}"
+2025-08-11 21:09:45,AVAXUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": true}"
