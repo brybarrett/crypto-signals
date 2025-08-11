@@ -36,3 +36,4 @@ timestamp,symbol,side,reason,extra
 2025-08-11 19:37:37,ETHPERP,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-11 19:37:40,TONUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-11 19:37:41,TONUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-11 19:37:42,TONUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
