@@ -28,3 +28,4 @@ timestamp,symbol,side,reason,extra
 2025-08-11 19:37:23,HYPEUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-11 19:37:25,CRVUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-11 19:37:27,BNBUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-11 19:37:28,BNBUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
