@@ -208,3 +208,4 @@ timestamp,symbol,side,reason,extra
 2025-08-11 21:09:47,AVAXUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": true}"
 2025-08-11 21:09:48,AVAXUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": true}"
 2025-08-11 21:09:50,BNBUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": true}"
+2025-08-11 21:09:51,BNBUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": true}"
