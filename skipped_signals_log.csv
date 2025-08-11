@@ -961,3 +961,4 @@ timestamp,symbol,side,reason,extra
 2025-08-12 02:04:04,BCHUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 02:04:32,BCHUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 02:05:37,XRPUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-12 02:05:39,ONDOUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
