@@ -186,3 +186,4 @@ timestamp,symbol,side,reason,extra
 2025-08-11 21:09:24,ADAUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": true}"
 2025-08-11 21:09:25,ADAUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": true}"
 2025-08-11 21:09:26,ADAUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": true}"
+2025-08-11 21:09:27,LTCUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": true}"
