@@ -262,3 +262,4 @@ timestamp,symbol,side,reason,extra
 2025-08-11 21:59:27,SEIUSDT,long,btc_filter_down,{}
 2025-08-11 23:02:36,BTCUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-11 23:02:38,BTCUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-11 23:02:39,HYPEUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
