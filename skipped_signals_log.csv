@@ -170,3 +170,4 @@ timestamp,symbol,side,reason,extra
 2025-08-11 21:09:06,DOGEUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": true}"
 2025-08-11 21:09:07,DOGEUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": true}"
 2025-08-11 21:09:08,DOGEUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": true}"
+2025-08-11 21:09:09,DOGEUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": true}"
