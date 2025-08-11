@@ -247,3 +247,4 @@ timestamp,symbol,side,reason,extra
 2025-08-11 21:10:37,CRVUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": true}"
 2025-08-11 21:10:40,CRVUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": true}"
 2025-08-11 21:54:20,SOLUSDT,long,btc_filter_down,{}
+2025-08-11 21:54:22,SOLUSDT,long,btc_filter_down,{}
