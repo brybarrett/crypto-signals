@@ -265,3 +265,4 @@ timestamp,symbol,side,reason,extra
 2025-08-11 23:02:39,HYPEUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-11 23:02:40,HYPEUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-11 23:02:41,AVAXUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-11 23:02:43,BTCPERP,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
