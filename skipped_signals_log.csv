@@ -95,3 +95,4 @@ timestamp,symbol,side,reason,extra
 2025-08-11 19:46:34,XRPUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-11 19:46:37,BNBUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-11 19:46:39,XLMUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-11 19:46:47,TOWNSUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
