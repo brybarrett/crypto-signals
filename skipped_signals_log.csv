@@ -724,3 +724,4 @@ timestamp,symbol,side,reason,extra
 2025-08-12 01:29:25,UNIUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 01:29:27,UNIUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 01:30:19,ETHUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-12 01:30:23,BANANAS31USDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
