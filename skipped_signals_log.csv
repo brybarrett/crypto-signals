@@ -105,3 +105,4 @@ timestamp,symbol,side,reason,extra
 2025-08-11 19:48:06,APTUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-11 19:49:17,BANANAS31USDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-11 19:49:53,HYPEUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-11 19:50:05,APTUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
