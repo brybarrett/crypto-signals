@@ -990,3 +990,4 @@ timestamp,symbol,side,reason,extra
 2025-08-12 02:15:21,ADAUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 02:15:23,ONDOUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 02:15:25,TIAUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-12 02:15:27,SWARMSUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
