@@ -516,3 +516,4 @@ timestamp,symbol,side,reason,extra
 2025-08-12 01:01:13,ENAUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 01:01:15,WIFUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 01:01:17,POPCATUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-12 01:02:57,POPCATUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
