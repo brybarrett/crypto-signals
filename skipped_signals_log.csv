@@ -862,3 +862,4 @@ timestamp,symbol,side,reason,extra
 2025-08-12 01:41:24,ORDIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 01:41:25,ORDIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 01:41:26,ORDIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-12 01:41:27,FILUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
