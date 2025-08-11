@@ -939,3 +939,4 @@ timestamp,symbol,side,reason,extra
 2025-08-12 01:57:52,ONDOUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 01:57:55,TRXUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 01:58:58,ARBUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-12 01:59:47,ARBUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
