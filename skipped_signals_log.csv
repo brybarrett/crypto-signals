@@ -434,3 +434,4 @@ timestamp,symbol,side,reason,extra
 2025-08-12 00:15:17,ALGOUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 00:16:21,AI16ZUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 00:16:22,AI16ZUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-12 00:16:40,XRPUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
