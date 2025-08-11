@@ -25,3 +25,4 @@ timestamp,symbol,side,reason,extra
 2025-08-11 19:37:19,ADAUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-11 19:37:21,LTCUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-11 19:37:22,LTCUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-11 19:37:23,HYPEUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
