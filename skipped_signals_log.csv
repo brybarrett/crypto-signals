@@ -74,3 +74,4 @@ timestamp,symbol,side,reason,extra
 2025-08-11 19:41:16,CRVUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-11 19:41:18,XLMUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-11 19:41:24,TONUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-11 19:41:25,TONUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
