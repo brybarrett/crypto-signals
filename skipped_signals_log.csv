@@ -253,3 +253,4 @@ timestamp,symbol,side,reason,extra
 2025-08-11 21:54:27,SEIUSDT,long,btc_filter_down,{}
 2025-08-11 21:54:28,SEIUSDT,long,btc_filter_down,{}
 2025-08-11 21:54:30,HBARUSDT,long,btc_filter_down,{}
+2025-08-11 21:54:44,ALGOUSDT,long,btc_filter_down,{}
