@@ -350,3 +350,4 @@ timestamp,symbol,side,reason,extra
 2025-08-11 23:27:04,BTCUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-11 23:28:08,BTCUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-11 23:28:11,LTCUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-11 23:28:12,LTCUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
