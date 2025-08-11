@@ -146,3 +146,4 @@ timestamp,symbol,side,reason,extra
 2025-08-11 21:07:06,AEROUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-11 21:08:41,BTCUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": true}"
 2025-08-11 21:08:43,BTCUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": true}"
+2025-08-11 21:08:44,SOLUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": true}"
