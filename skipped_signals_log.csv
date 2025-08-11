@@ -176,3 +176,4 @@ timestamp,symbol,side,reason,extra
 2025-08-11 21:09:13,ETHUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": true}"
 2025-08-11 21:09:14,ETHUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": true}"
 2025-08-11 21:09:15,ETHUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": true}"
+2025-08-11 21:09:16,ETHUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": true}"
