@@ -134,3 +134,4 @@ timestamp,symbol,side,reason,extra
 2025-08-11 19:55:15,PENDLEUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-11 19:55:16,PENDLEUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-11 19:55:20,TONUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-11 19:56:26,ZROUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
