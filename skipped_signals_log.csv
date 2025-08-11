@@ -669,3 +669,4 @@ timestamp,symbol,side,reason,extra
 2025-08-12 01:13:09,UNIUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 01:13:11,UNIUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 01:13:41,LTCUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-12 01:13:43,BTCPERP,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
