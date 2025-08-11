@@ -965,3 +965,4 @@ timestamp,symbol,side,reason,extra
 2025-08-12 02:05:40,SEIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 02:05:42,BCHUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 02:05:44,FILUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-12 02:07:08,SWARMSUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
