@@ -549,3 +549,4 @@ timestamp,symbol,side,reason,extra
 2025-08-12 01:06:19,UNIUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 01:06:20,UNIUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 01:06:21,BNBUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-12 01:06:22,BNBUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
