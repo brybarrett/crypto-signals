@@ -478,3 +478,4 @@ timestamp,symbol,side,reason,extra
 2025-08-12 00:42:50,AI16ZUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 00:43:10,ORDIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 00:43:12,ORDIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-12 00:43:30,PENGUUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
