@@ -757,3 +757,4 @@ timestamp,symbol,side,reason,extra
 2025-08-12 01:34:51,SEIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 01:34:53,SEIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 01:34:54,ONDOUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-12 01:34:55,ONDOUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
