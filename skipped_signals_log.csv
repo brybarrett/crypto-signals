@@ -197,3 +197,4 @@ timestamp,symbol,side,reason,extra
 2025-08-11 21:09:36,HYPEUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": true}"
 2025-08-11 21:09:36,HYPEUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": true}"
 2025-08-11 21:09:37,HYPEUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": true}"
+2025-08-11 21:09:39,PENGUUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": true}"
