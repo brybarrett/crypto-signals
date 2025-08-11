@@ -158,3 +158,4 @@ timestamp,symbol,side,reason,extra
 2025-08-11 21:08:54,XRPUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": true}"
 2025-08-11 21:08:55,XRPUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": true}"
 2025-08-11 21:08:56,XRPUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": true}"
+2025-08-11 21:08:57,XRPUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": true}"
