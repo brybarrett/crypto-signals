@@ -653,3 +653,4 @@ timestamp,symbol,side,reason,extra
 2025-08-12 01:10:23,BCHUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 01:11:15,LTCUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 01:11:17,LTCUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-12 01:11:18,LTCUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
