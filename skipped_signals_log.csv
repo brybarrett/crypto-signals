@@ -15,3 +15,4 @@ timestamp,symbol,side,reason,extra
 2025-08-11 18:42:08,AVAXUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": true}"
 2025-08-11 18:42:10,XLMUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": true}"
 2025-08-11 18:42:13,TIAUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": true}"
+2025-08-11 18:51:02,XRPUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": true}"
