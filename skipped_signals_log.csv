@@ -391,3 +391,4 @@ timestamp,symbol,side,reason,extra
 2025-08-11 23:40:38,BTCPERP,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-11 23:41:06,BTCPERP,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-11 23:41:08,BTCPERP,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-11 23:44:17,BTCPERP,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
