@@ -259,3 +259,4 @@ timestamp,symbol,side,reason,extra
 2025-08-11 21:57:45,CRVUSDT,long,btc_filter_down,{}
 2025-08-11 21:58:46,SEIUSDT,long,btc_filter_down,{}
 2025-08-11 21:59:07,SEIUSDT,long,btc_filter_down,{}
+2025-08-11 21:59:27,SEIUSDT,long,btc_filter_down,{}
