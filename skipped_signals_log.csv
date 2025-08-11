@@ -6,3 +6,4 @@ timestamp,symbol,side,reason,extra
 2025-08-11 15:31:21,XLMUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-11 16:39:41,POPCATUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-11 16:40:20,POPCATUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-11 17:48:29,TRUMPUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
