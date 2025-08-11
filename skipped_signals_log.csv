@@ -100,3 +100,4 @@ timestamp,symbol,side,reason,extra
 2025-08-11 19:46:54,TRXUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-11 19:47:18,MAGICUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-11 19:47:54,ADAUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-11 19:47:55,ADAUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
