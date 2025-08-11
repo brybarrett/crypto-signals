@@ -709,3 +709,4 @@ timestamp,symbol,side,reason,extra
 2025-08-12 01:18:41,ETHUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 01:18:42,ETHUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 01:19:59,LTCUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-12 01:25:20,ETHUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
