@@ -682,3 +682,4 @@ timestamp,symbol,side,reason,extra
 2025-08-12 01:14:19,OMUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 01:14:47,ETHUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 01:14:51,ETHPERP,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-12 01:14:53,OMUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
