@@ -1296,3 +1296,4 @@ timestamp,symbol,side,reason,extra
 2025-08-12 13:13:54,1000PEPEUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 13:13:56,FARTCOINUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 13:14:18,SOLUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-12 13:14:20,NEARUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
