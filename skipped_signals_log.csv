@@ -1184,3 +1184,4 @@ timestamp,symbol,side,reason,extra
 2025-08-12 12:34:00,XRPUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 12:34:03,MAGICUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 12:34:34,SOLUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-12 12:34:35,SOLUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
