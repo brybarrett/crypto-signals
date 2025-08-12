@@ -1073,3 +1073,4 @@ timestamp,symbol,side,reason,extra
 2025-08-12 08:00:36,PNUTUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 08:00:38,FILUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 08:00:57,XLMUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-12 08:00:59,AVAXUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
