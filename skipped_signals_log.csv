@@ -1406,3 +1406,4 @@ timestamp,symbol,side,reason,extra
 2025-08-12 13:56:34,ADAUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 13:59:00,ADAUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 14:03:11,1000PEPEUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-12 14:03:17,ETHFIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
