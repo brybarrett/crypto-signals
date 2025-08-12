@@ -1366,3 +1366,4 @@ timestamp,symbol,side,reason,extra
 2025-08-12 13:34:24,APTUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 13:34:27,FILUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 13:35:38,ETHFIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-12 13:37:41,ETHFIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
