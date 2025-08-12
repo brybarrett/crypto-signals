@@ -1440,3 +1440,4 @@ timestamp,symbol,side,reason,extra
 2025-08-12 18:04:41,WIFUSDT,short,false_breakout_return,"{""level"": 0.9407460000000001}"
 2025-08-12 18:05:26,WIFUSDT,short,false_breakout_return,"{""level"": 0.9414475}"
 2025-08-12 18:10:37,VINEUSDT,short,local_15m_uptrend,{}
+2025-08-12 18:17:01,VINEUSDT,short,local_15m_uptrend,{}
