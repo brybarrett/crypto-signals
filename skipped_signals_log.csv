@@ -1322,3 +1322,4 @@ timestamp,symbol,side,reason,extra
 2025-08-12 13:16:25,ARBUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 13:16:27,BNBUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 13:16:28,BNBUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-12 13:16:30,OPUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
