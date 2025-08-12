@@ -1376,3 +1376,4 @@ timestamp,symbol,side,reason,extra
 2025-08-12 13:42:34,FARTCOINUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 13:42:35,ADAUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 13:42:37,XLMUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-12 13:42:39,MAGICUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
