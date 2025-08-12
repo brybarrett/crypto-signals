@@ -1337,3 +1337,4 @@ timestamp,symbol,side,reason,extra
 2025-08-12 13:17:32,AAVEUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 13:17:33,AAVEUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 13:17:35,AAVEUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-12 13:17:37,APTUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
