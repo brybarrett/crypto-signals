@@ -1327,3 +1327,4 @@ timestamp,symbol,side,reason,extra
 2025-08-12 13:16:32,APTUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 13:16:33,APTUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 13:16:35,ETHPERP,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-12 13:16:36,ETHPERP,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
