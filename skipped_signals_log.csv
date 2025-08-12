@@ -1253,3 +1253,4 @@ timestamp,symbol,side,reason,extra
 2025-08-12 12:55:17,OMUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 12:56:28,MAGICUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 12:56:31,TIAUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-12 12:56:33,OMUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
