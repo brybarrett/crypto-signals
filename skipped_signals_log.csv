@@ -1329,3 +1329,4 @@ timestamp,symbol,side,reason,extra
 2025-08-12 13:16:35,ETHPERP,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 13:16:36,ETHPERP,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 13:16:38,TAOUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-12 13:16:39,SHIB1000USDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
