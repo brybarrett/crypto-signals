@@ -1420,3 +1420,4 @@ timestamp,symbol,side,reason,extra
 2025-08-12 15:56:23,MAGICUSDT,long,local_15m_downtrend,{}
 2025-08-12 15:57:08,MNTUSDT,short,local_15m_uptrend,{}
 2025-08-12 16:05:00,VINEUSDT,short,local_15m_uptrend,{}
+2025-08-12 16:05:23,VINEUSDT,short,local_15m_uptrend,{}
