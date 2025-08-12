@@ -1299,3 +1299,4 @@ timestamp,symbol,side,reason,extra
 2025-08-12 13:14:20,NEARUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 13:14:21,ONDOUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 13:14:24,ORDIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-12 13:14:25,FILUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
