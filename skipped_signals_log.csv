@@ -1264,3 +1264,4 @@ timestamp,symbol,side,reason,extra
 2025-08-12 13:02:22,OPUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 13:02:44,MAGICUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 13:03:07,BANANAS31USDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-12 13:03:09,FILUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
