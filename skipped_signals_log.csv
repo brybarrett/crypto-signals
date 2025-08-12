@@ -1114,3 +1114,4 @@ timestamp,symbol,side,reason,extra
 2025-08-12 08:10:26,LTCUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 08:10:27,LTCUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 08:10:50,1000PEPEUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-12 08:11:48,VINEUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
