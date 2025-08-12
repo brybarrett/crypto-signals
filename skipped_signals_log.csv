@@ -1456,3 +1456,4 @@ timestamp,symbol,side,reason,extra
 2025-08-12 20:28:27,ZORAUSDT,long,local_15m_downtrend,{}
 2025-08-12 20:50:08,VINEUSDT,short,local_15m_uptrend,{}
 2025-08-12 20:54:01,VINEUSDT,short,local_15m_uptrend,{}
+2025-08-12 21:32:46,VINEUSDT,short,local_15m_uptrend,{}
