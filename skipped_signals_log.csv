@@ -1280,3 +1280,4 @@ timestamp,symbol,side,reason,extra
 2025-08-12 13:08:58,ENSUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 13:09:17,SEIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 13:10:08,SEIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-12 13:10:11,WLDUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
