@@ -1417,3 +1417,4 @@ timestamp,symbol,side,reason,extra
 2025-08-12 17:11:48,BANANAS31USDT,long,local_15m_downtrend,{}
 2025-08-12 15:56:13,MNTUSDT,short,local_15m_uptrend,{}
 2025-08-12 15:56:16,MAGICUSDT,long,local_15m_downtrend,{}
+2025-08-12 15:56:23,MAGICUSDT,long,local_15m_downtrend,{}
