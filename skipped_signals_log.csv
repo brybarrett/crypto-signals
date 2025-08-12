@@ -1437,3 +1437,4 @@ timestamp,symbol,side,reason,extra
 2025-08-12 17:19:01,MAGICUSDT,long,local_15m_downtrend,{}
 2025-08-12 17:19:05,MAGICUSDT,long,local_15m_downtrend,{}
 2025-08-12 17:19:22,MAGICUSDT,long,local_15m_downtrend,{}
+2025-08-12 18:04:41,WIFUSDT,short,false_breakout_return,"{""level"": 0.9407460000000001}"
