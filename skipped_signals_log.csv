@@ -1309,3 +1309,4 @@ timestamp,symbol,side,reason,extra
 2025-08-12 13:15:40,DOGEUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 13:15:42,AAVEUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 13:15:43,AAVEUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-12 13:15:44,AAVEUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
