@@ -1216,3 +1216,4 @@ timestamp,symbol,side,reason,extra
 2025-08-12 12:41:20,ETHPERP,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 12:41:40,SOLUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-12 12:41:42,BNBUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-12 12:42:04,ETHUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
