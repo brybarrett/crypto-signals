@@ -4427,3 +4427,4 @@ timestamp,symbol,side,reason,extra
 2025-08-14 04:52:11,MOODENGUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-14 04:52:17,DOGEUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-14 04:52:20,ZORAUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-14 04:52:23,WLDUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
