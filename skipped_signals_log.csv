@@ -4808,3 +4808,4 @@ timestamp,symbol,side,reason,extra
 2025-08-14 05:42:44,ZORAUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-14 05:42:48,HBARUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-14 05:42:51,ENSUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-14 05:42:54,ENSUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
