@@ -2877,3 +2877,4 @@ timestamp,symbol,side,reason,extra
 2025-08-14 01:37:48,DOTUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-14 01:37:50,1000FLOKIUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-14 01:37:55,ZORAUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-14 01:37:58,XLMUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
