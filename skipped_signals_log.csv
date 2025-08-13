@@ -3490,3 +3490,4 @@ timestamp,symbol,side,reason,extra
 2025-08-14 02:48:17,WIFUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-14 02:48:19,ZORAUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-14 02:48:22,HBARUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-14 02:48:24,DOTUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
