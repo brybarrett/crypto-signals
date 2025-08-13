@@ -1572,3 +1572,4 @@ timestamp,symbol,side,reason,extra
 2025-08-13 23:55:51,ALGOUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-13 23:55:54,1000BONKUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-13 23:55:56,ZORAUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-13 23:55:58,XLMUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
