@@ -4424,3 +4424,4 @@ timestamp,symbol,side,reason,extra
 2025-08-14 04:51:44,ZORAUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-14 04:51:52,ZORAUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-14 04:52:08,ZORAUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-14 04:52:11,MOODENGUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
