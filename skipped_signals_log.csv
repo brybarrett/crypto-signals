@@ -6469,3 +6469,4 @@ timestamp,symbol,side,reason,extra
 2025-08-14 08:57:01,ALGOUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-14 08:57:05,ALGOUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-14 08:57:13,ZORAUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-14 08:57:19,1000000MOGUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
