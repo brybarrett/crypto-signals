@@ -6564,3 +6564,4 @@ timestamp,symbol,side,reason,extra
 2025-08-14 13:53:23,AAVEUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-14 13:53:25,AAVEUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-14 13:53:26,ONDOUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-14 13:53:28,ONDOUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
