@@ -6586,3 +6586,4 @@ timestamp,symbol,side,reason,extra
 2025-08-14 13:53:57,ETHUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-14 13:53:58,ETHUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-14 13:53:59,ETHUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-14 13:54:01,SUIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
