@@ -6605,3 +6605,4 @@ timestamp,symbol,side,reason,extra
 2025-08-14 15:07:19,1000FLOKIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-14 16:02:16,1000BONKUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-14 16:04:17,1000FLOKIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-14 16:35:25,FILUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
