@@ -6255,3 +6255,4 @@ timestamp,symbol,side,reason,extra
 2025-08-14 08:35:46,ZORAUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-14 08:35:49,1000000MOGUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-14 08:35:52,1000000MOGUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-14 08:35:55,1000FLOKIUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
