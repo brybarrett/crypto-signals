@@ -6630,3 +6630,4 @@ timestamp,symbol,side,reason,extra
 2025-08-14 22:16:04,BRETTUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-14 22:21:52,PENDLEUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-14 22:21:55,PENDLEUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-14 22:49:11,PENDLEUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
