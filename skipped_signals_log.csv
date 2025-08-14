@@ -6582,3 +6582,4 @@ timestamp,symbol,side,reason,extra
 2025-08-14 13:53:50,BRETTUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-14 13:53:52,BRETTUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-14 13:53:53,BRETTUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-14 13:53:55,DOGEUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
