@@ -6601,3 +6601,5 @@ timestamp,symbol,side,reason,extra
 2025-08-14 13:54:19,HBARUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-14 13:54:20,HBARUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-14 13:54:22,MNTUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-14 13:54:23,TAOUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-14 15:07:19,1000FLOKIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
