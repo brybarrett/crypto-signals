@@ -5958,3 +5958,4 @@ timestamp,symbol,side,reason,extra
 2025-08-14 08:03:31,1000PEPEUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-14 08:03:34,ZORAUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-14 08:03:36,MOODENGUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-14 08:03:38,MOODENGUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
