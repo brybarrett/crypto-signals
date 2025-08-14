@@ -5961,3 +5961,4 @@ timestamp,symbol,side,reason,extra
 2025-08-14 08:03:38,MOODENGUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-14 08:03:41,SHIB1000USDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-14 08:03:43,1000FLOKIUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-14 08:03:50,ZORAUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
