@@ -7499,3 +7499,4 @@ timestamp,symbol,side,reason,extra
 2025-08-18 11:50:21,SHIB1000USDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 11:50:23,ORDIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 11:50:24,ALGOUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-18 11:50:26,FARTCOINUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
