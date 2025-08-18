@@ -9798,3 +9798,4 @@ timestamp,symbol,side,reason,extra
 2025-08-18 12:51:31,ALGOUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 12:51:41,ADAUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 12:51:42,FARTCOINUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-18 12:51:44,1000PEPEUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
