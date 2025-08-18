@@ -18,3 +18,4 @@ timestamp,symbol,side,reason,extra
 2025-08-18 22:30:37,MAGICUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 22:30:49,PLUMEUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 22:30:52,PLUMEUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-18 22:31:36,MAGICUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
