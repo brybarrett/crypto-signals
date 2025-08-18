@@ -9111,3 +9111,4 @@ timestamp,symbol,side,reason,extra
 2025-08-18 12:32:35,FARTCOINUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 12:32:37,1000PEPEUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 12:32:38,WIFUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-18 12:32:40,WIFUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
