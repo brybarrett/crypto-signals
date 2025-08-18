@@ -6924,3 +6924,4 @@ timestamp,symbol,side,reason,extra
 2025-08-18 11:35:47,VIRTUALUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 11:35:48,DOTUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 11:35:49,APTUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-18 11:35:51,APTUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
