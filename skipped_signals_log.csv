@@ -6921,3 +6921,4 @@ timestamp,symbol,side,reason,extra
 2025-08-18 11:35:43,INJUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 11:35:44,INJUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 11:35:45,OPUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-18 11:35:47,VIRTUALUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
