@@ -7433,3 +7433,4 @@ timestamp,symbol,side,reason,extra
 2025-08-18 11:48:39,INJUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 11:48:40,DOTUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 11:48:42,APTUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-18 11:48:43,APTUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
