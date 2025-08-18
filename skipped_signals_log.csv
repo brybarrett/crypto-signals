@@ -9189,3 +9189,4 @@ timestamp,symbol,side,reason,extra
 2025-08-18 12:34:55,INJUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 12:34:56,INJUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 12:34:58,INJUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-18 12:34:59,1000BONKUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
