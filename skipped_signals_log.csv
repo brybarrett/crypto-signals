@@ -8250,3 +8250,4 @@ timestamp,symbol,side,reason,extra
 2025-08-18 12:10:05,VIRTUALUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 12:10:06,INJUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 12:10:07,INJUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-18 12:10:09,INJUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
