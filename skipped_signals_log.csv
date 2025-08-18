@@ -10645,3 +10645,4 @@ timestamp,symbol,side,reason,extra
 2025-08-18 13:14:46,SOONUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 13:14:47,POLUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 13:14:49,SHIB1000USDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-18 13:14:50,ORDIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
