@@ -9323,3 +9323,4 @@ timestamp,symbol,side,reason,extra
 2025-08-18 12:38:39,SHIB1000USDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 12:38:41,SHIB1000USDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 12:38:42,ORDIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-18 12:38:43,ORDIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
