@@ -7671,3 +7671,4 @@ timestamp,symbol,side,reason,extra
 2025-08-18 11:55:26,CTSIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 11:55:27,WIFUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 11:55:29,SEIUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-18 11:55:30,BIOUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
