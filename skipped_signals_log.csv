@@ -10,3 +10,4 @@ timestamp,symbol,side,reason,extra
 "2025-08-11 19:05:21,ADAUSDT,short,trend_gate_fail,""{""""inst_ok"""": false, """"btc_ok"""": true}"""
 "2025-08-11 19:06:48,OMUSDT,short,trend_gate_fail,""{""""inst_ok"""": false, """"btc_ok"""": true}"""
 2025-08-18 22:27:07,PLUMEUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-18 22:27:12,ORDIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
