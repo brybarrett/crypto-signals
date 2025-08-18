@@ -9950,3 +9950,4 @@ timestamp,symbol,side,reason,extra
 2025-08-18 12:55:56,WIFUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 12:55:57,CTSIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 12:55:58,CTSIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-18 12:56:00,CYBERUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
