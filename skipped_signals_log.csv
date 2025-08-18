@@ -8246,3 +8246,4 @@ timestamp,symbol,side,reason,extra
 2025-08-18 12:10:00,LDOUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 12:10:01,BIOUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 12:10:03,OPUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-18 12:10:04,UNIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
