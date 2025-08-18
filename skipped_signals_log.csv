@@ -12239,3 +12239,4 @@ timestamp,symbol,side,reason,extra
 2025-08-18 19:52:05,INJUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 20:04:50,KASUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 20:16:37,INJUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-18 20:32:02,KASUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
