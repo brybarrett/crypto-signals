@@ -11763,3 +11763,4 @@ timestamp,symbol,side,reason,extra
 2025-08-18 13:46:16,BRETTUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 13:46:18,1000PEPEUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 13:46:20,WIFUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-18 13:46:21,CTSIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
