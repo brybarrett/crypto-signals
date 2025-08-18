@@ -8876,3 +8876,4 @@ timestamp,symbol,side,reason,extra
 2025-08-18 12:26:14,CYBERUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 12:26:15,LDOUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 12:26:17,LDOUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-18 12:26:18,OPUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
