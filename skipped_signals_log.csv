@@ -13,3 +13,4 @@ timestamp,symbol,side,reason,extra
 2025-08-18 22:27:12,ORDIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 22:27:16,POPCATUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 22:27:17,KASUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-18 22:30:22,CRVUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
