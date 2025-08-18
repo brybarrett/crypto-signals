@@ -7810,3 +7810,4 @@ timestamp,symbol,side,reason,extra
 2025-08-18 11:58:53,BIOUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 11:58:54,OPUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 11:58:56,INJUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-18 11:58:57,INJUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
