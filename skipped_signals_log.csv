@@ -6690,3 +6690,4 @@ timestamp,symbol,side,reason,extra
 2025-08-18 11:30:04,CYBERUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 11:30:05,CYBERUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 11:30:07,BIOUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-18 11:30:08,OPUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
