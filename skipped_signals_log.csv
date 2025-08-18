@@ -12141,3 +12141,4 @@ timestamp,symbol,side,reason,extra
 2025-08-18 13:57:43,AEROUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 13:57:44,GALAUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 13:57:46,SOONUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-18 13:57:48,POLUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
