@@ -8998,3 +8998,4 @@ timestamp,symbol,side,reason,extra
 2025-08-18 12:29:31,TIAUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 12:29:33,GALAUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 12:29:34,SOONUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-18 12:29:35,POLUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
