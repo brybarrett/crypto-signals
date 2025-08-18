@@ -6713,3 +6713,4 @@ timestamp,symbol,side,reason,extra
 2025-08-18 11:30:36,CTSIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 11:30:38,CYBERUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 11:30:39,CYBERUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-18 11:30:40,BIOUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
