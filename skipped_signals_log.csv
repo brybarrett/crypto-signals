@@ -11071,3 +11071,4 @@ timestamp,symbol,side,reason,extra
 2025-08-18 13:26:24,TRXUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 13:26:25,GALAUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 13:26:27,SOONUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-18 13:26:29,POLUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
