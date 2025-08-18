@@ -9453,3 +9453,4 @@ timestamp,symbol,side,reason,extra
 2025-08-18 12:42:14,AEROUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 12:42:16,AEROUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 12:42:17,GALAUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-18 12:42:18,POLUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
