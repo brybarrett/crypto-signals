@@ -12255,3 +12255,4 @@ timestamp,symbol,side,reason,extra
 2025-08-18 21:21:45,WAVESUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 21:46:30,APTUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 21:46:33,APTUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-18 21:46:37,APTUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
