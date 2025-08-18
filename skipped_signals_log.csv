@@ -11279,3 +11279,4 @@ timestamp,symbol,side,reason,extra
 2025-08-18 13:32:15,GALAUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 13:32:16,AEROUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 13:32:18,SOONUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-18 13:32:19,POLUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
