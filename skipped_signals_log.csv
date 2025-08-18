@@ -12252,3 +12252,4 @@ timestamp,symbol,side,reason,extra
 2025-08-18 20:59:39,DOTUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 21:11:58,ARBUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 21:12:01,ARBUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-18 21:21:45,WAVESUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
