@@ -10141,3 +10141,4 @@ timestamp,symbol,side,reason,extra
 2025-08-18 13:00:58,ORDIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 13:01:00,ORDIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 13:01:11,FARTCOINUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-18 13:01:12,ADAUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
