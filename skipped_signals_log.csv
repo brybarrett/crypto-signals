@@ -8471,3 +8471,4 @@ timestamp,symbol,side,reason,extra
 2025-08-18 12:15:45,APTUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 12:15:46,APTUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 12:15:47,1000BONKUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-18 12:15:49,AEROUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
