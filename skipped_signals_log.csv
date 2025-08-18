@@ -8111,3 +8111,4 @@ timestamp,symbol,side,reason,extra
 2025-08-18 12:06:34,SOONUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 12:06:36,POLUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-18 12:06:38,SHIB1000USDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-18 12:06:39,SHIB1000USDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
