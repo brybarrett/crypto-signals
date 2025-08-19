@@ -12280,3 +12280,4 @@ timestamp,symbol,side,reason,extra
 2025-08-19 05:48:04,AEROUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-19 06:12:53,MNTUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-19 06:13:21,MNTUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-19 07:02:25,SKLUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
