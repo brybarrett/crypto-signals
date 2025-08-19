@@ -12565,3 +12565,4 @@ timestamp,symbol,side,reason,extra
 2025-08-20 00:19:05,TRXUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-20 00:19:06,RADUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-20 00:19:07,RADUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-20 00:19:09,RADUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
