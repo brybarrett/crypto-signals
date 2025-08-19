@@ -12378,3 +12378,4 @@ timestamp,symbol,side,reason,extra
 2025-08-19 21:54:33,JUPUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-19 21:54:35,JUPUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-19 21:54:38,JUPUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-19 21:54:41,JUPUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
