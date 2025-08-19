@@ -12307,3 +12307,4 @@ timestamp,symbol,side,reason,extra
 2025-08-19 21:28:19,JUPUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-19 21:28:21,JUPUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-19 21:28:34,JUPUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-19 21:29:15,PLUMEUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
