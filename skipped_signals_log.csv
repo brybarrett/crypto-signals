@@ -20273,3 +20273,4 @@ timestamp,symbol,side,reason,extra
 2025-08-20 06:03:18,RADUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-20 06:03:20,RADUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-20 06:03:22,RADUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-20 06:03:26,RADUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
