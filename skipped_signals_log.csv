@@ -12315,3 +12315,4 @@ timestamp,symbol,side,reason,extra
 2025-08-19 21:51:16,MNTUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-19 21:52:00,JUPUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-19 21:52:03,JUPUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-19 21:52:06,JUPUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
