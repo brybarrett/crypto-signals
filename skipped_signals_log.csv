@@ -12290,3 +12290,4 @@ timestamp,symbol,side,reason,extra
 2025-08-19 21:04:52,PENGUUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-19 21:08:19,VIRTUALUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-19 21:08:27,VIRTUALUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-19 21:14:25,AI16ZUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
