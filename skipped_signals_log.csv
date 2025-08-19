@@ -12391,3 +12391,4 @@ timestamp,symbol,side,reason,extra
 2025-08-19 22:26:36,BNBUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-19 22:27:37,BNBUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-19 22:27:53,BNBUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-19 22:27:55,BNBUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
