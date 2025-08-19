@@ -12300,3 +12300,4 @@ timestamp,symbol,side,reason,extra
 2025-08-19 21:27:42,XRPUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-19 21:27:58,SEIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-19 21:28:00,SEIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-19 21:28:03,SEIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
