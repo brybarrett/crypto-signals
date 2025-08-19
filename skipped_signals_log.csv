@@ -14273,3 +14273,4 @@ timestamp,symbol,side,reason,extra
 2025-08-20 01:51:09,UMAUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false, ""gap_inst"": null, ""gap_btc"": null}"
 2025-08-20 01:51:10,UMAUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false, ""gap_inst"": null, ""gap_btc"": null}"
 2025-08-20 01:51:12,UMAUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false, ""gap_inst"": null, ""gap_btc"": null}"
+2025-08-20 01:51:15,UMAUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false, ""gap_inst"": null, ""gap_btc"": null}"
