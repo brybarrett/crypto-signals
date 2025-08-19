@@ -12295,3 +12295,4 @@ timestamp,symbol,side,reason,extra
 2025-08-19 21:17:22,PENDLEUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-19 21:17:24,PENDLEUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-19 21:25:30,PROVEUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-19 21:25:41,PROVEUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
