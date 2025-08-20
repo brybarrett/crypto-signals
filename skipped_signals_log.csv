@@ -31435,3 +31435,4 @@ timestamp,symbol,side,reason,extra
 2025-08-20 15:00:43,1INCHUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-20 15:00:46,1INCHUSDT,short,low_volume,"{""note"": ""🔴 Объём: 885 (низкий)""}"
 2025-08-20 15:01:12,MNTUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-20 15:01:14,MNTUSDT,short,local_15m_uptrend,{}
