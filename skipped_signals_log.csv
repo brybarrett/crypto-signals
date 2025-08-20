@@ -31736,3 +31736,4 @@ timestamp,symbol,side,reason,extra
 2025-08-20 23:35:33,LTCUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-20 23:35:35,LTCUSDT,short,local_15m_uptrend,{}
 2025-08-20 23:36:12,LTCUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-20 23:36:14,LTCUSDT,short,local_15m_uptrend,{}
