@@ -33488,3 +33488,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 01:31:42,VINEUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 01:31:46,VINEUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 01:31:49,VINEUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-21 01:31:51,VINEUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
