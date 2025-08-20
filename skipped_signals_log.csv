@@ -31490,3 +31490,4 @@ timestamp,symbol,side,reason,extra
 2025-08-20 19:03:35,MEMEUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-20 19:03:38,MEMEUSDT,short,low_volume,"{""note"": ""🔴 Объём: 6189330 (низкий)""}"
 2025-08-20 19:32:29,AEROUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-20 19:32:32,AEROUSDT,short,low_volume,"{""note"": ""🔴 Объём: 9570 (низкий)""}"
