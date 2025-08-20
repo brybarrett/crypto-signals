@@ -31625,3 +31625,4 @@ timestamp,symbol,side,reason,extra
 2025-08-20 22:33:38,LTCUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-20 22:34:06,LTCUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-20 22:34:34,AEROUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-20 22:34:36,AEROUSDT,short,local_15m_uptrend,{}
