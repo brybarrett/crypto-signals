@@ -31523,3 +31523,4 @@ timestamp,symbol,side,reason,extra
 2025-08-20 19:45:51,MYXUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-20 19:45:54,MYXUSDT,long,low_volume,"{""note"": ""🔴 Объём: 10468 (низкий)""}"
 2025-08-20 19:55:39,CFXUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-20 19:55:42,CFXUSDT,short,low_volume,"{""note"": ""🔴 Объём: 6697 (низкий)""}"
