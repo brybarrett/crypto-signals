@@ -31748,3 +31748,4 @@ timestamp,symbol,side,reason,extra
 2025-08-20 23:38:11,CFXUSDT,short,low_volume,"{""note"": ""🔴 Объём: 6697 (низкий)""}"
 2025-08-20 23:38:47,LTCUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-20 23:38:49,LTCUSDT,short,local_15m_uptrend,{}
+2025-08-20 23:39:16,LTCUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
