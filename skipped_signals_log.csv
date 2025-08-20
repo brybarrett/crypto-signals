@@ -31550,3 +31550,4 @@ timestamp,symbol,side,reason,extra
 2025-08-20 20:27:39,DAMUSDT,long,local_15m_downtrend,{}
 2025-08-20 20:27:41,DAMUSDT,long,low_volume,"{""note"": ""🔴 Объём: 133707 (низкий)""}"
 2025-08-20 20:37:51,MNTUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-20 20:37:53,MNTUSDT,short,low_volume,"{""note"": ""🔴 Объём: 22999 (низкий)""}"
