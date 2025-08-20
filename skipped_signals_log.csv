@@ -31494,3 +31494,4 @@ timestamp,symbol,side,reason,extra
 2025-08-20 19:32:41,AEROUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-20 19:32:44,AEROUSDT,short,low_volume,"{""note"": ""🔴 Объём: 9570 (низкий)""}"
 2025-08-20 19:33:10,MNTUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-20 19:33:12,MNTUSDT,short,local_15m_uptrend,{}
