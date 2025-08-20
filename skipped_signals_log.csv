@@ -31661,3 +31661,4 @@ timestamp,symbol,side,reason,extra
 2025-08-20 22:49:10,DOTUSDT,short,local_15m_uptrend,{}
 2025-08-20 22:49:13,DOTUSDT,short,low_volume,"{""note"": ""🔴 Объём: 3947 (низкий)""}"
 2025-08-20 22:49:39,DOTUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-20 22:49:41,DOTUSDT,short,local_15m_uptrend,{}
