@@ -31440,3 +31440,4 @@ timestamp,symbol,side,reason,extra
 2025-08-20 15:11:10,MYXUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-20 15:11:13,MYXUSDT,long,local_15m_downtrend,{}
 2025-08-20 15:11:15,MYXUSDT,long,low_volume,"{""note"": ""🔴 Объём: 10468 (низкий)""}"
+2025-08-20 15:14:45,PENDLEUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
