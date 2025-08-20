@@ -31684,3 +31684,4 @@ timestamp,symbol,side,reason,extra
 2025-08-20 23:11:21,EPICUSDT,short,local_15m_uptrend,{}
 2025-08-20 23:11:23,EPICUSDT,short,low_volume,"{""note"": ""🔴 Объём: 2191 (низкий)""}"
 2025-08-20 23:11:59,LTCUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-20 23:12:24,LTCUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
